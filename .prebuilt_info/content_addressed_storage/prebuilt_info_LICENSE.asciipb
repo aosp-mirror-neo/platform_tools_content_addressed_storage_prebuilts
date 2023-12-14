@@ -1,6 +1,6 @@
 drops {
   dest_file: "LICENSE"
-  version: "302-20231026-000033"
+  version: "354-20231214-043418"
   version_group: "content_addressed_storage"
   git_project: "platform/tools/content_addressed_storage/prebuilts"
   local_drop {
