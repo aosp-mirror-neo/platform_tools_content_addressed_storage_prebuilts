@@ -1,6 +1,6 @@
 drops {
   dest_file: "NOTICE.txt"
-  version: "446-20240314-000027"
+  version: "689-20240516-040028"
   version_group: "content_addressed_storage"
   git_project: "platform/tools/content_addressed_storage/prebuilts"
   local_drop {
