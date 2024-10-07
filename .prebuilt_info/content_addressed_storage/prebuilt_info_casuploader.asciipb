@@ -1,6 +1,6 @@
 drops {
   dest_file: "casuploader"
-  version: "788-20240730-040032"
+  version: "817-20240821-040201"
   version_group: "content_addressed_storage"
   git_project: "platform/tools/content_addressed_storage/prebuilts"
   local_drop {
